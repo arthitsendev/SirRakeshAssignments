@@ -12,13 +12,13 @@ class Unique_Word {
         for(i=0;i<str.length();i++) {
             c=str.charAt(i);
             for(j=0;j<str.length();j++) {
-                c1=str.charAt(i);
+                c1=str.charAt(j);
                 if(c==c1) {
-                    f=1;
+                    f++;
                 }
             }
         }
-        if(f==0) {
+        if(f==str.length()) {
             System.out.print("Unique word");
         }
         else {
