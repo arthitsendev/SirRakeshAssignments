@@ -1,3 +1,4 @@
+//Binary Search - 10 numbers
 import java.util.*;
 class BinarySearch {
     public static void main(String[] args) {

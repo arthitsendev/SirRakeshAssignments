@@ -1,3 +1,4 @@
+//Enter a word and display the position of each character in the alphabetical table.
 import java.util.*;
 class AlphPos {
     public static void main(String[] args) {

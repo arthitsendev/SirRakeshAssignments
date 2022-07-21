@@ -1,4 +1,4 @@
-//Copyright Program done by Arthit Sen. Distribution of code not allowed.
+//Enter a string and extract the first and last eord from the string.
 import java.util.*;
 class FirstLastWord {
     public static void main(String[] args) {

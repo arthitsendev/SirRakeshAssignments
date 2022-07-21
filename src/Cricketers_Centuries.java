@@ -1,3 +1,4 @@
+//Enter the name of players, their countries and the number of centuries they made into three arrays and enter the first letter of the country's name and search for the cricketer.
 import java.util.*;
 class Cricketers_Centuries {
     public static void main(String[]args) {

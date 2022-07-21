@@ -1,3 +1,4 @@
+//Create methods to accept a number and check whether it is a beam number or not.
 import java.util.*;
 class BEAM {
     int m;

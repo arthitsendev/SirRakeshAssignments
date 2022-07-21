@@ -1,3 +1,4 @@
+//Enter 10 numbers and print it after reversing each number.
 import java.util.Scanner;
 class ArrDis {
     public static void main(String[] args) {

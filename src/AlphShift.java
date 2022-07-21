@@ -1,3 +1,4 @@
+//Enter a character and shift it by a certain value entered by the user.
 import java.util.*;
 class AlphShift {
     public static void main(String[] args) {
